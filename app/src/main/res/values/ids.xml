@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id">img1</item>
+    <item name="board" type="id">board</item>
+    <item name="imageView2" type="id">img3</item>
+    <item name="Playerchanger" type="id">pch</item>
+    <item name="a1" type="id">a1</item>
+    <item name="a2" type="id">a2</item>
+    <item name="a3" type="id">a3</item>
+    <item name="b1" type="id">b1</item>
+    <item name="b2" type="id">b2</item>
+    <item name="b3" type="id">b3</item>
+    <item name="c1" type="id">c1</item>
+    <item name="c2" type="id">c2</item>
+    <item name="c3" type="id">c4</item>
+    <item name="textView" type="id">tw</item>
+    <item name="view" type="id">view</item>
+    <item name="name1" type="id">n1</item>
+    <item name="name2" type="id">n2</item>
+    <item name="score1" type="id">s1</item>
+    <item name="score2" type="id">s2</item>
+    <item name="winner" type="id" />
+    <item name="imageView3" type="id">img3</item>
+    <item name="nextButton" type="id">nb</item>
+    <item name="imageView6" type="id">img6</item>
+    <item name="imageView7" type="id">img7</item>
+    <item name="imageView8" type="id">img8</item>
+    <item name="imageView9" type="id">img9</item>
+    <item name="oSignName" type="id">osi</item>
+    <item name="xSignName" type="id">xsi</item>
+</resources>
